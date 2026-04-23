@@ -16,14 +16,6 @@ Sou apaixonado por transformar dados em insights e por desenvolver soluções in
             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
         />
     </a> 
-    </a>
-    <a href="https://github.com/Duduz1nh00?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
