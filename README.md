@@ -16,11 +16,6 @@ Sou apaixonada por transformar dados em insights e por desenvolver soluções in
             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
         />
     </a> 
-    <a href="https://github.com/Duduz1nh00?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Duduz1nh00?tab=followers">
