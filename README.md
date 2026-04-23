@@ -1,5 +1,7 @@
 # 👩🏻‍💻 Eduardo Henrique
 
+**`Storyteller de dados`**
+
 Me chamo Eduardo de Almeida Henrique, tenho 28 anos e sou natural do São Paulo. Concluí o ensino superior na UMSP, com o curso Bacharelado de Sistemas de Informação.Conclui minha pós graduação em 2025 na FIAP co Curso "IA para Devs" com foco em análise de dados e inteligência artificial.
 
 Sou apaixonada por transformar dados em insights e por desenvolver soluções inteligentes que automatizam processos e geram valor. Tenho interesse em áreas como machine learning, visão computacional e análise preditiva, sempre buscando aplicar esses conhecimentos em projetos práticos.
