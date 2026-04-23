@@ -6,7 +6,6 @@ Me chamo Eduardo de Almeida Henrique, tenho 28 anos e sou natural do São Paulo.
 
 Sou apaixonada por transformar dados em insights e por desenvolver soluções inteligentes que automatizam processos e geram valor. Tenho interesse em áreas como machine learning, visão computacional e análise preditiva, sempre buscando aplicar esses conhecimentos em projetos práticos.
 
-Compartilho meu aprendizado e projetos através do meu canal no YouTube "Larissa Kich", onde ensino conceitos de tecnologia e desenvolvimento, além do Instagram "Dev em Dev", onde abordo conteúdos sobre programação, dados e IA de forma acessível.
 
 <p align="left">
    </a> 
