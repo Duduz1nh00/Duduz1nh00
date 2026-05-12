@@ -88,15 +88,6 @@ Projeto de reconhecimento de expressões faciais utilizando visão computacional
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Duduz1nh00&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduz1nh00&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 # 🌎 Contato
 
 - LinkedIn: linkedin.com/in/eduardo-henrique-66b366110
